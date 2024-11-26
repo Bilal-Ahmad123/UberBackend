@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\wwwroot\\.gitkeep",
+      "PackagePath": "staticwebassets\\.gitkeep"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Uber.Backend.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Uber.Backend.Web.props",
+      "PackagePath": "build\\Uber.Backend.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Uber.Backend.Web.props",
+      "PackagePath": "buildMultiTargeting\\Uber.Backend.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Uber.Backend.Web.props",
+      "PackagePath": "buildTransitive\\Uber.Backend.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
