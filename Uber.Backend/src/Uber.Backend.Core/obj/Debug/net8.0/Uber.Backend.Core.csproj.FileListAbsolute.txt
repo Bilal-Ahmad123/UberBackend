@@ -1,0 +1,13 @@
+D:\C-Sharp\Uber.Backend\Uber.Backend\src\Uber.Backend.Core\bin\Debug\net8.0\Uber.Backend.Core.deps.json
+D:\C-Sharp\Uber.Backend\Uber.Backend\src\Uber.Backend.Core\bin\Debug\net8.0\Uber.Backend.Core.dll
+D:\C-Sharp\Uber.Backend\Uber.Backend\src\Uber.Backend.Core\bin\Debug\net8.0\Uber.Backend.Core.pdb
+D:\C-Sharp\Uber.Backend\Uber.Backend\src\Uber.Backend.Core\obj\Debug\net8.0\Uber.Backend.Core.csproj.AssemblyReference.cache
+D:\C-Sharp\Uber.Backend\Uber.Backend\src\Uber.Backend.Core\obj\Debug\net8.0\Uber.Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Uber.Backend\Uber.Backend\src\Uber.Backend.Core\obj\Debug\net8.0\Uber.Backend.Core.AssemblyInfoInputs.cache
+D:\C-Sharp\Uber.Backend\Uber.Backend\src\Uber.Backend.Core\obj\Debug\net8.0\Uber.Backend.Core.AssemblyInfo.cs
+D:\C-Sharp\Uber.Backend\Uber.Backend\src\Uber.Backend.Core\obj\Debug\net8.0\Uber.Backend.Core.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Uber.Backend\Uber.Backend\src\Uber.Backend.Core\obj\Debug\net8.0\Uber.Backend.Core.sourcelink.json
+D:\C-Sharp\Uber.Backend\Uber.Backend\src\Uber.Backend.Core\obj\Debug\net8.0\Uber.Backend.Core.dll
+D:\C-Sharp\Uber.Backend\Uber.Backend\src\Uber.Backend.Core\obj\Debug\net8.0\refint\Uber.Backend.Core.dll
+D:\C-Sharp\Uber.Backend\Uber.Backend\src\Uber.Backend.Core\obj\Debug\net8.0\Uber.Backend.Core.pdb
+D:\C-Sharp\Uber.Backend\Uber.Backend\src\Uber.Backend.Core\obj\Debug\net8.0\ref\Uber.Backend.Core.dll

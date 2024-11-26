@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Uber.Backend.Web.props" />
+</Project>
