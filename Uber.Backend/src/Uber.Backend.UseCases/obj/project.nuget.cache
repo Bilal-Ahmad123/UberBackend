@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+a9cjxNSmDM=",
+  "dgSpecHash": "p49cp2Cp/Zo=",
   "success": true,
   "projectFilePath": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj",
   "expectedPackageFiles": [
@@ -11,8 +11,17 @@
     "C:\\Users\\Bilal Ahmad\\.nuget\\packages\\ardalis.specification\\8.0.0\\ardalis.specification.8.0.0.nupkg.sha512",
     "C:\\Users\\Bilal Ahmad\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\Bilal Ahmad\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\Bilal Ahmad\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
-    "C:\\Users\\Bilal Ahmad\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512"
+    "C:\\Users\\Bilal Ahmad\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\9.0.0\\microsoft.aspnetcore.connections.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Bilal Ahmad\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\9.0.0\\microsoft.aspnetcore.signalr.common.9.0.0.nupkg.sha512",
+    "C:\\Users\\Bilal Ahmad\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.0\\microsoft.bcl.asyncinterfaces.9.0.0.nupkg.sha512",
+    "C:\\Users\\Bilal Ahmad\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Bilal Ahmad\\.nuget\\packages\\microsoft.extensions.features\\9.0.0\\microsoft.extensions.features.9.0.0.nupkg.sha512",
+    "C:\\Users\\Bilal Ahmad\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Bilal Ahmad\\.nuget\\packages\\microsoft.extensions.options\\9.0.0\\microsoft.extensions.options.9.0.0.nupkg.sha512",
+    "C:\\Users\\Bilal Ahmad\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\Bilal Ahmad\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\Bilal Ahmad\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\Bilal Ahmad\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
   ],
   "logs": []
 }

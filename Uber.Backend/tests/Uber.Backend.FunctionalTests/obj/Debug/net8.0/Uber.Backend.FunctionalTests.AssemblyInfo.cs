@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uber.Backend.FunctionalTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d41b9f36f59540b51cb40cc8fd4b238501ce291")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+372ce77afe31b07fad79f98fdf0b0e8cdbb09132")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uber.Backend.FunctionalTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uber.Backend.FunctionalTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
