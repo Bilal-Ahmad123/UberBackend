@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uber.Backend.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6306f4d5d6ed9b07c48226a7c1d73612f7e9377")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52c4e382c384ba0965e7059486df7d16d0b8e25e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uber.Backend.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uber.Backend.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
