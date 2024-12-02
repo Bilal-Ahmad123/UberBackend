@@ -3,6 +3,7 @@ using FastEndpoints;
 using FastEndpoints.Swagger;
 using Serilog;
 using Serilog.Extensions.Logging;
+using Uber.Backend.Core.Services;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -21,6 +22,8 @@ var appLogger = new SerilogLoggerFactory(logger)
 
 builder.Services.AddOptionConfigs(builder.Configuration, appLogger, builder);
 builder.Services.AddServiceConfigs(appLogger, builder);
+builder.Services.AddSignalR();
+builder.Services.AddScoped<INotificationService, NotificationService>();
 
 builder.Services.AddFastEndpoints()
                 .SwaggerDocument(o =>

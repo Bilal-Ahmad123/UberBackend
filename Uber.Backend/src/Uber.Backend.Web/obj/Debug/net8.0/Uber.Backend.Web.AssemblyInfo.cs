@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Uber.Backend.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b97c3b93d6f8f870e606ae25dc354fef2232ecc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6306f4d5d6ed9b07c48226a7c1d73612f7e9377")]
 [assembly: System.Reflection.AssemblyProductAttribute("Uber.Backend.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Uber.Backend.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

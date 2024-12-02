@@ -3,6 +3,86 @@
   "WorkspaceRootPath": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Uber.Backend.Core\\Uber.Backend.Core.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.core\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Uber.Backend.Core\\Uber.Backend.Core.csproj|solutionrelative:src\\uber.backend.core\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Uber.Backend.Core\\Uber.Backend.Core.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.core\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Uber.Backend.Core\\Uber.Backend.Core.csproj|solutionrelative:src\\uber.backend.core\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.web\\hub\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|solutionrelative:src\\uber.backend.web\\hub\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|solutionrelative:src\\uber.backend.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.web\\configurations\\webapplicationconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|solutionrelative:src\\uber.backend.web\\configurations\\webapplicationconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.usecases\\contributors\\contributordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|solutionrelative:src\\uber.backend.usecases\\contributors\\contributordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.usecases\\contributors\\update\\updatecontributorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|solutionrelative:src\\uber.backend.usecases\\contributors\\update\\updatecontributorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Uber.Backend.Core\\Uber.Backend.Core.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.core\\services\\deletecontributorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Uber.Backend.Core\\Uber.Backend.Core.csproj|solutionrelative:src\\uber.backend.core\\services\\deletecontributorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.usecases\\contributors\\delete\\deletecontributorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|solutionrelative:src\\uber.backend.usecases\\contributors\\delete\\deletecontributorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.usecases\\contributors\\get\\getcontributorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|solutionrelative:src\\uber.backend.usecases\\contributors\\get\\getcontributorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.usecases\\contributors\\list\\listcontributorshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|solutionrelative:src\\uber.backend.usecases\\contributors\\list\\listcontributorshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.usecases\\contributors\\list\\ilistcontributorsqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|solutionrelative:src\\uber.backend.usecases\\contributors\\list\\ilistcontributorsqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.usecases\\contributors\\list\\listcontributorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|solutionrelative:src\\uber.backend.usecases\\contributors\\list\\listcontributorsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.web\\configurations\\loggerconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|solutionrelative:src\\uber.backend.web\\configurations\\loggerconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.web\\configurations\\mediatrconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|solutionrelative:src\\uber.backend.web\\configurations\\mediatrconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.web\\configurations\\optionconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|solutionrelative:src\\uber.backend.web\\configurations\\optionconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.web\\configurations\\serviceconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|solutionrelative:src\\uber.backend.web\\configurations\\serviceconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.web\\contributors\\getbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|solutionrelative:src\\uber.backend.web\\contributors\\getbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.web\\contributors\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|solutionrelative:src\\uber.backend.web\\contributors\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Uber.Backend.Core\\Uber.Backend.Core.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.core\\contributoraggregate\\handlers\\contributordeletedhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Uber.Backend.Core\\Uber.Backend.Core.csproj|solutionrelative:src\\uber.backend.core\\contributoraggregate\\handlers\\contributordeletedhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Uber.Backend.Core\\Uber.Backend.Core.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.core\\contributoraggregate\\contributorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Uber.Backend.Core\\Uber.Backend.Core.csproj|solutionrelative:src\\uber.backend.core\\contributoraggregate\\contributorstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +91,8 @@
       "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Uber.Backend.Core\\Uber.Backend.Core.csproj|solutionrelative:src\\uber.backend.core\\contributoraggregate\\contributor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Uber.Backend.Core\\Uber.Backend.Core.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.core\\services\\deletecontributorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Uber.Backend.Core\\Uber.Backend.Core.csproj|solutionrelative:src\\uber.backend.core\\services\\deletecontributorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Uber.Backend.Core\\Uber.Backend.Core.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.core\\contributoraggregate\\handlers\\contributordeletedhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Uber.Backend.Core\\Uber.Backend.Core.csproj|solutionrelative:src\\uber.backend.core\\contributoraggregate\\handlers\\contributordeletedhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Uber.Backend.Core\\Uber.Backend.Core.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.core\\contributoraggregate\\events\\contributordeletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4548EB20-1D1B-477B-AF6E-DD55653A6583}|src\\Uber.Backend.Core\\Uber.Backend.Core.csproj|solutionrelative:src\\uber.backend.core\\contributoraggregate\\events\\contributordeletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.usecases\\contributors\\delete\\deletecontributorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|solutionrelative:src\\uber.backend.usecases\\contributors\\delete\\deletecontributorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{220361D6-9C76-4E3F-BD34-3C7B50E2CA4D}|src\\Uber.Backend.Infrastructure\\Uber.Backend.Infrastructure.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.infrastructure\\data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,18 +123,6 @@
       "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|solutionrelative:src\\uber.backend.usecases\\contributors\\get\\getcontributorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.usecases\\contributors\\get\\getcontributorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|solutionrelative:src\\uber.backend.usecases\\contributors\\get\\getcontributorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.usecases\\contributors\\list\\listcontributorshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|solutionrelative:src\\uber.backend.usecases\\contributors\\list\\listcontributorshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.usecases\\contributors\\update\\updatecontributorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|solutionrelative:src\\uber.backend.usecases\\contributors\\update\\updatecontributorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.usecases\\contributors\\create\\createcontributorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|solutionrelative:src\\uber.backend.usecases\\contributors\\create\\createcontributorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -83,20 +139,8 @@
       "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|solutionrelative:src\\uber.backend.usecases\\contributors\\delete\\deletecontributorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.web\\contributors\\getbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|solutionrelative:src\\uber.backend.web\\contributors\\getbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.web\\contributors\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|solutionrelative:src\\uber.backend.web\\contributors\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.web\\contributors\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|solutionrelative:src\\uber.backend.web\\contributors\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.usecases\\contributors\\list\\ilistcontributorsqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B74A78FF-B79E-4C38-A9C7-084A90990CAD}|src\\Uber.Backend.UseCases\\Uber.Backend.UseCases.csproj|solutionrelative:src\\uber.backend.usecases\\contributors\\list\\ilistcontributorsqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{220361D6-9C76-4E3F-BD34-3C7B50E2CA4D}|src\\Uber.Backend.Infrastructure\\Uber.Backend.Infrastructure.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.infrastructure\\data\\queries\\fakelistcontributorsqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -125,22 +169,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.web\\contributors\\contributorrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|solutionrelative:src\\uber.backend.web\\contributors\\contributorrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.web\\configurations\\loggerconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|solutionrelative:src\\uber.backend.web\\configurations\\loggerconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.web\\configurations\\mediatrconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|solutionrelative:src\\uber.backend.web\\configurations\\mediatrconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.web\\configurations\\optionconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|solutionrelative:src\\uber.backend.web\\configurations\\optionconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|d:\\c-sharp\\uber.backend\\uber.backend\\src\\uber.backend.web\\configurations\\serviceconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9751CB7-4CD6-4633-A99A-4F6ADD525437}|src\\Uber.Backend.Web\\Uber.Backend.Web.csproj|solutionrelative:src\\uber.backend.web\\configurations\\serviceconfigs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -150,60 +178,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 14,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContributorStatus.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\ContributorAggregate\\ContributorStatus.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Core\\ContributorAggregate\\ContributorStatus.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\ContributorAggregate\\ContributorStatus.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Core\\ContributorAggregate\\ContributorStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:52:01.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Contributor.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\ContributorAggregate\\Contributor.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Core\\ContributorAggregate\\Contributor.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\ContributorAggregate\\Contributor.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Core\\ContributorAggregate\\Contributor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:51:59.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ContributorDeletedEvent.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\ContributorAggregate\\Events\\ContributorDeletedEvent.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Core\\ContributorAggregate\\Events\\ContributorDeletedEvent.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\ContributorAggregate\\Events\\ContributorDeletedEvent.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Core\\ContributorAggregate\\Events\\ContributorDeletedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:50:58.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:50:00.095Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -255,149 +231,69 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DeleteContributorHandler.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Delete\\DeleteContributorHandler.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.UseCases\\Contributors\\Delete\\DeleteContributorHandler.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Delete\\DeleteContributorHandler.cs",
-              "RelativeToolTip": "src\\Uber.Backend.UseCases\\Contributors\\Delete\\DeleteContributorHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Title": "ContributorDTO.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\ContributorDTO.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.UseCases\\Contributors\\ContributorDTO.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\ContributorDTO.cs",
+              "RelativeToolTip": "src\\Uber.Backend.UseCases\\Contributors\\ContributorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:11:03.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T20:11:28.382Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DeleteContributorService.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\Services\\DeleteContributorService.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Core\\Services\\DeleteContributorService.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\Services\\DeleteContributorService.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Core\\Services\\DeleteContributorService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBUAAAAcAAAAAAAAAA==",
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Hub\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Hub\\NotificationHub.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Hub\\NotificationHub.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Web\\Hub\\NotificationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:33:29.022Z",
+              "WhenOpened": "2024-11-29T19:56:16.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Core\\Services\\NotificationService.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\Services\\NotificationService.cs*",
+              "RelativeToolTip": "src\\Uber.Backend.Core\\Services\\NotificationService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvwQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:48:01.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ContributorDeletedHandler.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\ContributorAggregate\\Handlers\\ContributorDeletedHandler.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Core\\ContributorAggregate\\Handlers\\ContributorDeletedHandler.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\ContributorAggregate\\Handlers\\ContributorDeletedHandler.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Core\\ContributorAggregate\\Handlers\\ContributorDeletedHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAADAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Program.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Program.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:34:26.697Z",
+              "WhenOpened": "2024-11-27T18:08:10.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Core\\Interfaces\\INotificationService.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Core\\Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T19:45:33.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DataSchemaConstants.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\Config\\DataSchemaConstants.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Data\\Config\\DataSchemaConstants.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\Config\\DataSchemaConstants.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Data\\Config\\DataSchemaConstants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:08:32.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:49:44.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BaseEfRepoTestFixture.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\tests\\Uber.Backend.IntegrationTests\\Data\\BaseEfRepoTestFixture.cs",
-              "RelativeDocumentMoniker": "tests\\Uber.Backend.IntegrationTests\\Data\\BaseEfRepoTestFixture.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\tests\\Uber.Backend.IntegrationTests\\Data\\BaseEfRepoTestFixture.cs",
-              "RelativeToolTip": "tests\\Uber.Backend.IntegrationTests\\Data\\BaseEfRepoTestFixture.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwCgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:49:36.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EfRepository.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\EfRepository.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Data\\EfRepository.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\EfRepository.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Data\\EfRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:49:29.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ContributorConfiguration.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\Config\\ContributorConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Data\\Config\\ContributorConfiguration.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\Config\\ContributorConfiguration.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Data\\Config\\ContributorConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:08:25.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GetContributorHandler.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Get\\GetContributorHandler.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.UseCases\\Contributors\\Get\\GetContributorHandler.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Get\\GetContributorHandler.cs",
-              "RelativeToolTip": "src\\Uber.Backend.UseCases\\Contributors\\Get\\GetContributorHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:12:54.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GetContributorQuery.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Get\\GetContributorQuery.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.UseCases\\Contributors\\Get\\GetContributorQuery.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Get\\GetContributorQuery.cs",
-              "RelativeToolTip": "src\\Uber.Backend.UseCases\\Contributors\\Get\\GetContributorQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:12:56.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ListContributorsHandler.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\List\\ListContributorsHandler.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.UseCases\\Contributors\\List\\ListContributorsHandler.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\List\\ListContributorsHandler.cs",
-              "RelativeToolTip": "src\\Uber.Backend.UseCases\\Contributors\\List\\ListContributorsHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:08:46.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "UpdateContributorHandler.cs",
               "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Update\\UpdateContributorHandler.cs",
               "RelativeDocumentMoniker": "src\\Uber.Backend.UseCases\\Contributors\\Update\\UpdateContributorHandler.cs",
@@ -405,103 +301,47 @@
               "RelativeToolTip": "src\\Uber.Backend.UseCases\\Contributors\\Update\\UpdateContributorHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:14:25.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T17:14:25.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CreateContributorHandler.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Create\\CreateContributorHandler.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.UseCases\\Contributors\\Create\\CreateContributorHandler.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Create\\CreateContributorHandler.cs",
-              "RelativeToolTip": "src\\Uber.Backend.UseCases\\Contributors\\Create\\CreateContributorHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "WebApplicationConfigs.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Configurations\\WebApplicationConfigs.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Configurations\\WebApplicationConfigs.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Configurations\\WebApplicationConfigs.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Web\\Configurations\\WebApplicationConfigs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:17:42.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T18:08:07.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CreateContributorCommand.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Create\\CreateContributorCommand.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.UseCases\\Contributors\\Create\\CreateContributorCommand.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Create\\CreateContributorCommand.cs",
-              "RelativeToolTip": "src\\Uber.Backend.UseCases\\Contributors\\Create\\CreateContributorCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "GetContributorHandler.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Get\\GetContributorHandler.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.UseCases\\Contributors\\Get\\GetContributorHandler.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Get\\GetContributorHandler.cs",
+              "RelativeToolTip": "src\\Uber.Backend.UseCases\\Contributors\\Get\\GetContributorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:18:13.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T17:12:54.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SmtpEmailSender.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Email\\SmtpEmailSender.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Email\\SmtpEmailSender.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Email\\SmtpEmailSender.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Email\\SmtpEmailSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAABHAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "ListContributorsHandler.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\List\\ListContributorsHandler.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.UseCases\\Contributors\\List\\ListContributorsHandler.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\List\\ListContributorsHandler.cs",
+              "RelativeToolTip": "src\\Uber.Backend.UseCases\\Contributors\\List\\ListContributorsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:07:43.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T17:08:46.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DeleteContributorCommand.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Delete\\DeleteContributorCommand.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.UseCases\\Contributors\\Delete\\DeleteContributorCommand.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Delete\\DeleteContributorCommand.cs",
-              "RelativeToolTip": "src\\Uber.Backend.UseCases\\Contributors\\Delete\\DeleteContributorCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:11:02.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GetById.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\GetById.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Contributors\\GetById.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\GetById.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Web\\Contributors\\GetById.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvxQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T18:44:39.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Delete.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\Delete.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Contributors\\Delete.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\Delete.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Web\\Contributors\\Delete.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T18:48:54.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Create.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\Create.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Contributors\\Create.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\Create.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Web\\Contributors\\Create.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswBMAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T18:49:38.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 11,
               "Title": "IListContributorsQueryService.cs",
               "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\List\\IListContributorsQueryService.cs",
               "RelativeDocumentMoniker": "src\\Uber.Backend.UseCases\\Contributors\\List\\IListContributorsQueryService.cs",
@@ -509,114 +349,47 @@
               "RelativeToolTip": "src\\Uber.Backend.UseCases\\Contributors\\List\\IListContributorsQueryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:13:31.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T17:13:31.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "FakeListContributorsQueryService.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\Queries\\FakeListContributorsQueryService.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Data\\Queries\\FakeListContributorsQueryService.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\Queries\\FakeListContributorsQueryService.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Data\\Queries\\FakeListContributorsQueryService.cs",
+              "DocumentIndex": 12,
+              "Title": "ListContributorsQuery.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\List\\ListContributorsQuery.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.UseCases\\Contributors\\List\\ListContributorsQuery.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\List\\ListContributorsQuery.cs",
+              "RelativeToolTip": "src\\Uber.Backend.UseCases\\Contributors\\List\\ListContributorsQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:08:37.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T19:47:03.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "MimeKitEmailSender.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Email\\MimeKitEmailSender.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Email\\MimeKitEmailSender.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Email\\MimeKitEmailSender.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Email\\MimeKitEmailSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "DeleteContributorHandler.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Delete\\DeleteContributorHandler.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.UseCases\\Contributors\\Delete\\DeleteContributorHandler.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Delete\\DeleteContributorHandler.cs",
+              "RelativeToolTip": "src\\Uber.Backend.UseCases\\Contributors\\Delete\\DeleteContributorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:07:35.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T17:11:03.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "MailserverConfiguration.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Email\\MailserverConfiguration.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Email\\MailserverConfiguration.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Email\\MailserverConfiguration.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Email\\MailserverConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "DeleteContributorService.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\Services\\DeleteContributorService.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Core\\Services\\DeleteContributorService.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\Services\\DeleteContributorService.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Core\\Services\\DeleteContributorService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:07:33.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T17:33:29.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "FakeEmailSender.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Email\\FakeEmailSender.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Email\\FakeEmailSender.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Email\\FakeEmailSender.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Email\\FakeEmailSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:07:29.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ContributorRecord.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\ContributorRecord.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Contributors\\ContributorRecord.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\ContributorRecord.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Web\\Contributors\\ContributorRecord.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:00:35.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Update.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\Update.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Contributors\\Update.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\Update.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Web\\Contributors\\Update.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBwAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T16:57:49.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "MediatrConfigs.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Configurations\\MediatrConfigs.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Configurations\\MediatrConfigs.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Configurations\\MediatrConfigs.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Web\\Configurations\\MediatrConfigs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T18:48:49.512Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "OptionConfigs.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Configurations\\OptionConfigs.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Configurations\\OptionConfigs.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Configurations\\OptionConfigs.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Web\\Configurations\\OptionConfigs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T18:48:44.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 16,
               "Title": "ServiceConfigs.cs",
               "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Configurations\\ServiceConfigs.cs",
               "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Configurations\\ServiceConfigs.cs",
@@ -628,20 +401,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "List.cs",
-              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\List.cs",
-              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Contributors\\List.cs",
-              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\List.cs",
-              "RelativeToolTip": "src\\Uber.Backend.Web\\Contributors\\List.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "Delete.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\Delete.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Contributors\\Delete.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\Delete.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Web\\Contributors\\Delete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T18:44:24.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T18:48:54.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 17,
+              "Title": "GetById.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\GetById.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Contributors\\GetById.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\GetById.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Web\\Contributors\\GetById.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvycAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:44:39.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContributorDeletedHandler.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\ContributorAggregate\\Handlers\\ContributorDeletedHandler.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Core\\ContributorAggregate\\Handlers\\ContributorDeletedHandler.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\ContributorAggregate\\Handlers\\ContributorDeletedHandler.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Core\\ContributorAggregate\\Handlers\\ContributorDeletedHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:34:26.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ContributorStatus.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\ContributorAggregate\\ContributorStatus.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Core\\ContributorAggregate\\ContributorStatus.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\ContributorAggregate\\ContributorStatus.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Core\\ContributorAggregate\\ContributorStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:52:01.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OptionConfigs.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Configurations\\OptionConfigs.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Configurations\\OptionConfigs.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Configurations\\OptionConfigs.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Web\\Configurations\\OptionConfigs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:48:44.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MediatrConfigs.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Configurations\\MediatrConfigs.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Configurations\\MediatrConfigs.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Configurations\\MediatrConfigs.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Web\\Configurations\\MediatrConfigs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:48:49.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "LoggerConfigs.cs",
               "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Configurations\\LoggerConfigs.cs",
               "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Configurations\\LoggerConfigs.cs",
@@ -650,6 +482,258 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T18:48:51.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:50:00.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ContributorDeletedEvent.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\ContributorAggregate\\Events\\ContributorDeletedEvent.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Core\\ContributorAggregate\\Events\\ContributorDeletedEvent.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\ContributorAggregate\\Events\\ContributorDeletedEvent.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Core\\ContributorAggregate\\Events\\ContributorDeletedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:50:58.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Contributor.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\ContributorAggregate\\Contributor.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Core\\ContributorAggregate\\Contributor.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Core\\ContributorAggregate\\Contributor.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Core\\ContributorAggregate\\Contributor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:51:59.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataSchemaConstants.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\Config\\DataSchemaConstants.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Data\\Config\\DataSchemaConstants.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\Config\\DataSchemaConstants.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Data\\Config\\DataSchemaConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:08:32.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:49:44.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseEfRepoTestFixture.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\tests\\Uber.Backend.IntegrationTests\\Data\\BaseEfRepoTestFixture.cs",
+              "RelativeDocumentMoniker": "tests\\Uber.Backend.IntegrationTests\\Data\\BaseEfRepoTestFixture.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\tests\\Uber.Backend.IntegrationTests\\Data\\BaseEfRepoTestFixture.cs",
+              "RelativeToolTip": "tests\\Uber.Backend.IntegrationTests\\Data\\BaseEfRepoTestFixture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwCgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:49:36.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\EfRepository.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Data\\EfRepository.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\EfRepository.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Data\\EfRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:49:29.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ContributorConfiguration.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\Config\\ContributorConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Data\\Config\\ContributorConfiguration.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\Config\\ContributorConfiguration.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Data\\Config\\ContributorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:08:25.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetContributorQuery.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Get\\GetContributorQuery.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.UseCases\\Contributors\\Get\\GetContributorQuery.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Get\\GetContributorQuery.cs",
+              "RelativeToolTip": "src\\Uber.Backend.UseCases\\Contributors\\Get\\GetContributorQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:12:56.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateContributorHandler.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Create\\CreateContributorHandler.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.UseCases\\Contributors\\Create\\CreateContributorHandler.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Create\\CreateContributorHandler.cs",
+              "RelativeToolTip": "src\\Uber.Backend.UseCases\\Contributors\\Create\\CreateContributorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:17:42.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateContributorCommand.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Create\\CreateContributorCommand.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.UseCases\\Contributors\\Create\\CreateContributorCommand.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Create\\CreateContributorCommand.cs",
+              "RelativeToolTip": "src\\Uber.Backend.UseCases\\Contributors\\Create\\CreateContributorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:18:13.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SmtpEmailSender.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Email\\SmtpEmailSender.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Email\\SmtpEmailSender.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Email\\SmtpEmailSender.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Email\\SmtpEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:07:43.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DeleteContributorCommand.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Delete\\DeleteContributorCommand.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.UseCases\\Contributors\\Delete\\DeleteContributorCommand.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.UseCases\\Contributors\\Delete\\DeleteContributorCommand.cs",
+              "RelativeToolTip": "src\\Uber.Backend.UseCases\\Contributors\\Delete\\DeleteContributorCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:11:02.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\Create.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Contributors\\Create.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\Create.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Web\\Contributors\\Create.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:49:38.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FakeListContributorsQueryService.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\Queries\\FakeListContributorsQueryService.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Data\\Queries\\FakeListContributorsQueryService.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Data\\Queries\\FakeListContributorsQueryService.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Data\\Queries\\FakeListContributorsQueryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:08:37.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MimeKitEmailSender.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Email\\MimeKitEmailSender.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Email\\MimeKitEmailSender.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Email\\MimeKitEmailSender.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Email\\MimeKitEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:07:35.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MailserverConfiguration.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Email\\MailserverConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Email\\MailserverConfiguration.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Email\\MailserverConfiguration.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Email\\MailserverConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:07:33.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FakeEmailSender.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Email\\FakeEmailSender.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Infrastructure\\Email\\FakeEmailSender.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Infrastructure\\Email\\FakeEmailSender.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Infrastructure\\Email\\FakeEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:07:29.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ContributorRecord.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\ContributorRecord.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Contributors\\ContributorRecord.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\ContributorRecord.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Web\\Contributors\\ContributorRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:00:35.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Update.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\Update.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Contributors\\Update.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\Update.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Web\\Contributors\\Update.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:57:49.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "List.cs",
+              "DocumentMoniker": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\List.cs",
+              "RelativeDocumentMoniker": "src\\Uber.Backend.Web\\Contributors\\List.cs",
+              "ToolTip": "D:\\C-Sharp\\Uber.Backend\\Uber.Backend\\src\\Uber.Backend.Web\\Contributors\\List.cs",
+              "RelativeToolTip": "src\\Uber.Backend.Web\\Contributors\\List.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:44:24.112Z"
             }
           ]
         }

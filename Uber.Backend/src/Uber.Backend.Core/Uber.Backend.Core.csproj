@@ -9,6 +9,7 @@
     <PackageReference Include="Ardalis.Specification" />
     <PackageReference Include="MediatR" />
     <PackageReference Include="Microsoft.AspNetCore.SignalR.Common" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR.Core" />
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" />
   </ItemGroup>
 
